@@ -13,8 +13,8 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, mod_learning.MOD_ID);
 
 
-    public static final RegistryObject<Item> ZIRCON2 = ITEMS.register("zircon",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> ZIRCON2  = ITEMS.register("zircon",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
 
     public static final RegistryObject<Item> RAW_ZIRCON = ITEMS.register("raw_zircon",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));

@@ -1,6 +1,7 @@
 package net.jorge.modlearning;
 
 import com.mojang.logging.LogUtils;
+import net.jorge.modlearning.block.ModBlocks;
 import net.jorge.modlearning.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.server.ServerStartingEvent;
@@ -29,6 +30,7 @@ public class mod_learning
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
