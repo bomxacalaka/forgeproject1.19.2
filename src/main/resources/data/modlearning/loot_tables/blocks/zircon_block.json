@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorialmod:zircon_block"
+          "name": "modlearning:zircon_block"
         }
       ]
     }

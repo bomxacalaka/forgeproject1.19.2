@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "tutorialmod:zircon"
+      "item": "modlearning:zircon"
     }
   },
   "result": {
-    "item": "tutorialmod:zircon_block"
+    "item": "modlearning:zircon_block"
   }
 }

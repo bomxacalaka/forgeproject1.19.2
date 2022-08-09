@@ -4,7 +4,7 @@
   "experience": 0.7,
   "group": "zircon",
   "ingredient": {
-    "item": "tutorialmod:raw_zircon"
+    "item": "modlearning:raw_zircon"
   },
-  "result": "tutorialmod:zircon"
+  "result": "modlearning:zircon"
 }
