@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bettartools:zircon_block"
+    }
+  ],
+  "result": {
+    "item": "bettartools:zircon",
+    "count": 9
+  }
+}

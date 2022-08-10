@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bettartools:zircon"
+    }
+  },
+  "result": {
+    "item": "bettartools:zircon_block"
+  }
+}

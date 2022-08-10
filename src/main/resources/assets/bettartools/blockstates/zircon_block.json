@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : { "model" :  "bettartools:block/zircon_block" }
+  }
+}
