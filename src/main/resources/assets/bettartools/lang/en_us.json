@@ -1,15 +1,10 @@
 {
   "item.bettartools.zircon" : "Zircon",
-  "item.bettartools.raw_zircon" : "Raw Zircon",
-  "item.bettartools.isac" : "ISACUS",
-  "item.bettartools.potion" : "potion",
 
   "itemGroup.tutorialtab" : "Zircon Tutorial Tab 2",
 
   "block.bettartools.zircon_block" : "Zircon Block",
-  "block.bettartools.zircon_ore" : "Zircon Ore",
-  "block.bettartools.deepslate_zircon_ore" : "Deepslate Zircon Ore",
-  "block.bettartools.netherrack_zircon_ore" : "Netherrack Zircon Ore",
-  "block.bettartools.enderstone_zircon_ore" : "Enderstone Zircon Ore",
-  "block.bettartools.gf" : "Chloe Lane"
+
+  "item.bettartools.obsidian_pickaxe" : "Obsidian Pickaxe"
+
 }
